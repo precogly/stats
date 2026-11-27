@@ -1,6 +1,6 @@
 {
-  "count": 1026,
-  "uniques": 334,
+  "count": 1182,
+  "uniques": 373,
   "days": [
     {
       "timestamp": "2026-11-10T00:00:00Z",
@@ -81,6 +81,11 @@
       "timestamp": "2026-11-25T00:00:00Z",
       "count": 144,
       "uniques": 52
+    },
+    {
+      "timestamp": "2026-11-26T00:00:00Z",
+      "count": 156,
+      "uniques": 39
     }
   ]
 }
